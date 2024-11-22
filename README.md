@@ -1,6 +1,6 @@
 # 任意数字化工具
 
-任意の数値を任意の数字からなる数式に分解するツール。[https://github.com/itorr/homo](itorr/homo)に触発されて作った。
+任意の数値を任意の数字からなる数式に分解するツール。[itorr/homo](https://github.com/itorr/homo)に触発されて作った。
 
 ## プロジェクトのホームページ
 
