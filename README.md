@@ -31,12 +31,6 @@ Initialized successfully.
 > ^C
 ```
 
-### CDN
-
-```HTML
-<script type="" src="https://cdn.jsdelivr.net/gh/qoyie/numbernize@master/index.js"></script>
-```
-
 ## ライセンス
 
 MIT
