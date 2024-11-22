@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.9.1"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node --max-old-space-size=10000 main.js",
+    "test": "node --max-old-space-size=10000 test.js"
+  },
+  "type": "module"
+}
